@@ -1,0 +1,85 @@
+- Getting Started 
+    - [Introduction](README.md)
+    - [How to Contribute](contribution.md)
+
+- Python 
+    - [Introduction](./python/README.md)
+    - [Basics](./python/basics.md)
+    - [Coding Best Practices](./python/best_prac.md)
+    - NumPy
+        - [Introduction](./python/numpy/README.md)
+    - Pandas
+        - [Introduction](./python/pandas/README.md)
+    - Connecting Python to SQL
+        - [pyodbc](./python/sqlconn/pyodbc.md)
+        - [sqlalchemy](./python/sqlconn/sqlalchemy.md)
+    - Programming Fundamentals
+        - [Introduction](./python/programming/README.md)
+        - [Functional Programming](./python/programming/fp.md)
+        - [Object Oriented Programming](./python/programming/oop.md)
+
+- Statistics 
+    - [Introduction](./statistics/README.md)
+    - [Measures of Central Tendency](./statistics/mcd.md)
+    - [Measures of Dispersion](./statistics/mv.md)
+    - Probability Distributions
+        - [Introduction](./statistics/probab_dist/README.md)
+        - [Uniform Distribution](./statistics/probab_dist/uniform.md)
+        - [Bernoulli Distribution](./statistics/probab_dist/bernoulli.md)
+        - [Hypergeometric Distribution](./statistics/probab_dist/hypergeo.md)
+        - [Binomial Distribution](./statistics/probab_dist/binomial.md)
+        - [Geometric Distribution](./statistics/probab_dist/geo.md)
+        - [Negative Binomial Distribution](./statistics/probab_dist/neg_binomial.md)
+        - [Poisson Distribution](./statistics/probab_dist/poisson.md)
+        - [Exponential Distribution](./statistics/probab_dist/exponential.md)
+        - [Normal Distribution](./statistics/probab_dist/normal.md)
+        - [Log Normal Distribution](./statistics/probab_dist/log_normal.md)
+        - [Student's t Distribution](./statistics/probab_dist/student.md)
+        - [Chi-Squared Distribution](./statistics/probab_dist/chisq.md)
+        - [Gamma Distribution](./statistics/probab_dist/gamma.md)
+        - [Beta Distribution](./statistics/probab_dist/beta.md)
+    - [Kurtosis](./statistics/kurtosis.md)
+    - [Skewness](./statistics/skew.md)
+    - [Correlation](./statistics/correlation.md)
+    - [Regression](./statistics/regression.md)
+    - [Gini Index](./statistics/gini_index.md)
+
+- Exploratory Data Analysis
+    - [Introduction](./eda/README.md)
+    - [Uni-Variate Analysis](./eda/uva.md)
+    - [Bi-Variate Analysis](./eda/bva.md)
+    - [Hypothesis Testing](./eda/hypothesis_testing.md)
+    - [Augmented Dicky Fuller Test](./eda/adf.md)
+    - [Granger's Causality Test](./eda/gct.md)
+    - [Visualization](./eda/vis.md)
+
+- SQL
+    - [Introduction](./sql/README.md)
+    - [Aggregate Functions](./sql/af.md)
+    - [Joins](./sql/joins.md)
+    - [Unions](./sql/unions.md)
+
+- Modelling 
+    - [Introduction](./modelling/README.md)
+    - [Underfitting](./modelling/underfitting.md)
+    - [Overfitting](./modelling/overfitting.md)
+    - [Finetuning](./modelling/finetuning.md)
+    - Time Series Models
+        - [Introduction](./modelling/time_series_models/README.md)
+        - [MA](./modelling/time_series_models/ma.md)
+        - [AR](./modelling/time_series_models/ar.md)
+        - [ARMA](./modelling/time_series_models/arma.md)
+        - [ARIMA](./modelling/time_series_models/arima.md)
+        - [Exponential Smoothing](./modelling/time_series_models/es.md)
+        - [Holt Winters](./modelling/time_series_models/hw.md)
+        - [UCM](./modelling/time_series_models/ucm.md)
+
+- Math for Machine Learning
+    - Linear Algebra
+        - [Introduction](./math/linear_algebra/README.md)
+    - Multivariate Calculus 
+        - [Introduction](./math/multi_calc/README.md)
+
+- Machine Learning
+    - [Introduction](./machine_learning/README.md)
+
