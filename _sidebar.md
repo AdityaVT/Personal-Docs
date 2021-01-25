@@ -17,6 +17,8 @@
         - [Introduction](./python/programming/README.md)
         - [Functional Programming](./python/programming/fp.md)
         - [Object Oriented Programming](./python/programming/oop.md)
+        - [Recursion](./python/programming/recursion.md)
+        - [Graph Theory](./python/programming/graph.md)
 
 - Statistics 
     - [Introduction](./statistics/README.md)
